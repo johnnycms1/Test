@@ -1,10 +1,17 @@
 package org.jadson;
 
+import static org.junit.Assert.assertEquals;
+
 import org.junit.Test;
-import static org.junit.Assert.*;
-
-import org.jadson.Person;
-
+/**
+ * 
+ * @author jadson
+ *
+ * <p><i>This program is distributed without any warranty and it
+ * can be freely redistributed for research, classes or private studies, 
+ * since the copyright notices are not removed.</i></p>
+ *
+ */
 public class PersonTest {
     @Test
     public void canConstructAPersonWithAName() {
