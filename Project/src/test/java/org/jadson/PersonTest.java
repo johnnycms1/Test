@@ -14,7 +14,6 @@ import org.junit.Test;
  */
 public class PersonTest {
 	
-	// Só queria ouvir uma do Bob Marley
     @Test
     public void canConstructAPersonWithAName() {
         Person person = new Person("Larry");
