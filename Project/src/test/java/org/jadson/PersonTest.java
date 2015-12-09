@@ -13,7 +13,7 @@ import org.junit.Test;
  *
  */
 public class PersonTest {
-	// Teste
+	// Testando novamente
     @Test
     public void canConstructAPersonWithAName() {
         Person person = new Person("Larry");
