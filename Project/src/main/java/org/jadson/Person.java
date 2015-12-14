@@ -11,6 +11,11 @@ import org.apache.commons.collections.list.GrowthList;
  * since the copyright notices are not removed.</i></p>
  *
  */
+<<<<<<< HEAD
+//teste com amend johnny
+=======
+//teste johnny
+>>>>>>> branch 'master' of https://github.com/johnnycms1/Test.git
 public class Person {
     private final String name;
 
